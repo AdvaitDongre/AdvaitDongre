@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Advait Nitin Dongre</h1>
 <h3 align="center">A passionate Machine Learning Engineer and enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://image.cdn2.seaart.ai/2023-10-16/20015983942977541/446e485c7be7118c3f0c41ac0d60e0b9f1bd8f82_high.webp">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/coding-computer-desk-boy-school-boy_958263-69.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=advaitdongre" alt="advaitdongre" /></a> </p>
 
