@@ -1,10 +1,8 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)](https://advaitdongre.io)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://advaitdongre.io)
 
 <h1 align="center">Hi 👋, I'm Advait Nitin Dongre</h1>
 <h3 align="center">A passionate Machine Learning Engineer and enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.playground.com/a5a7f018cf7942eda56841879934f318.jpeg">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=advaitdongre" alt="advaitdongre" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/advaitdong94500" target="blank"><img src="https://img.shields.io/twitter/follow/advaitdong94500?logo=twitter&style=for-the-badge" alt="advaitdong94500" /></a> </p>
 
@@ -40,4 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=advaitdongre&show_icons=true&locale=en" alt="advaitdongre" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=advaitdongre&" alt="advaitdongre" /></p>
-
