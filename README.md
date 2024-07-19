@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/advaitdong94500" target="blank"><img src="https://img.shields.io/twitter/follow/advaitdong94500?logo=twitter&style=for-the-badge" alt="advaitdong94500" /></a> </p>
 
-- 🔭 I’m have worked on [E-WhiteBoard](https://github.com/AdvaitDongre/E-WhiteBoard)
-
-- 🌱 I’m currently learning **MERN, Computer Vision**
-
-- 👯 I’m have worked on [Deep Fake Video Detection](https://github.com/AdvaitDongre/Deep-Fake-video-Detection)
+- 🔭 I've worked on [Pepsi Coke Logo Detection](https://github.com/AdvaitDongre/Pepsi-Coke-Logo-Detection)
+- 👯 I’ve have worked on [Deep Fake Video Detection](https://github.com/AdvaitDongre/Deep-Fake-video-Detection)
+- 🔭 I’ve have worked on [E-WhiteBoard](https://github.com/AdvaitDongre/E-WhiteBoard)
+  
+- 🌱 I’m currently learning **LLMs, Computer Vision, GenAI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdvaitDongre](https://github.com/AdvaitDongre)
 
