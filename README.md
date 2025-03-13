@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/advaitdong94500" target="blank"><img src="https://img.shields.io/twitter/follow/advaitdong94500?logo=twitter&style=for-the-badge" alt="advaitdong94500" /></a> </p>
 
-- 🔭 I've worked on [Pepsi Coke Logo Detection](https://github.com/AdvaitDongre/Pepsi-Coke-Logo-Detection)
+- 🔭 I’ve have worked on [Youtube Semantic Audio Chunker](https://github.com/AdvaitDongre/YTAChunker)
 - 👯 I’ve have worked on [Deep Fake Video Detection](https://github.com/AdvaitDongre/Deep-Fake-video-Detection)
-- 🔭 I’ve have worked on [E-WhiteBoard](https://github.com/AdvaitDongre/E-WhiteBoard)
+- 🔭 I've worked on [Pepsi Coke Logo Detection](https://github.com/AdvaitDongre/Pepsi-Coke-Logo-Detection)
   
 - 🌱 I’m currently learning **LLMs, Computer Vision, GenAI**
 
@@ -51,9 +51,6 @@
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   </a>
   <h4>Machine Learning:</h4>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
@@ -100,5 +97,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=advaitdongre&show_icons=true&locale=en&layout=compact" alt="advaitdongre" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=advaitdongre&show_icons=true&locale=en" alt="advaitdongre" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=advaitdongre&" alt="advaitdongre" /></p>
